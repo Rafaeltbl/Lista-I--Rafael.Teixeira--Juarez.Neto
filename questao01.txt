@@ -1,0 +1,1 @@
+Os ponteiros são importantes na engenharia devido à possibilidade de utilizar a alocação dinâmica, o que nos permite alocar espaço o quanto quiser e depois descartar para poder alocar outra coisa evitando desperdício. Essa função é de extrema importância para o desenvolvimento de sistemas mais complexos, que são utilizados em áreas de engenharia.

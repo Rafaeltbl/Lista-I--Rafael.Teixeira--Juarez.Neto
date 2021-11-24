@@ -1,0 +1,9 @@
+◦ *(pulo + 2);
+◦ *(pulo + 4);
+◦ pulo + 4;
+◦ pulo + 2;
+
+Sendo pulo[] um vetor de tipo int, a primeira expressão 
+- *(pulo + 2) - vai ser a responsável por por referenciar 
+o valor do terceiro elemento.
+

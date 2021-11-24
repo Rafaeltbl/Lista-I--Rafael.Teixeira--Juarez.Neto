@@ -1,0 +1,12 @@
+◦ p = mat + 1; 
+[Válida,já que mat[0]vai ter acrescido 1,
+fazendo com que p tenha o enderaço mat[1]]
+
+◦ p = mat;`
+[Válida, ela atribui  o endereço de mat[0] ao ponteiro p]
+
+◦ p =`mat;
+[Inválida, devido a aspas anterior à mat]
+
+◦ x = (*mat);`
+[Válida, pois x recebe o contéudo armazeado em mat[0]]
